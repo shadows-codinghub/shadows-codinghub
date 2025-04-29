@@ -60,7 +60,7 @@ const spideyProfile = {
         <p><strong>Tech:</strong>Python,flask,google-generative-ai</p>
       </td>
       <td>
-        <h3☀️ Floating Solar Panels – Sustainable Energy on Water</h3>
+        <h3>☀️ Floating Solar Panels – Sustainable Energy on Water</h3>
         <p>Floating Solar Panels is an innovative clean energy project aimed at utilizing underused water surfaces, such as reservoirs and firm-owned ponds, to generate solar power. By deploying photovoltaic panels on floating structures, this system reduces land usage while improving energy efficiency.</p>
       </td>
     </tr>
