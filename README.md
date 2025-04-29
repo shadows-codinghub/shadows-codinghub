@@ -55,14 +55,13 @@ const spideyProfile = {
   <table>
     <tr>
       <td>
-        <h3>Project Name 1</h3>
-        <p>Short description goes here. What does it do? Why is it cool?</p>
-        <p><strong>Tech:</strong> React, Node.js, MongoDB</p>
+        <h3>🎬 Animath – Visual Math Animator</h3>
+        <p>Animath is a lightweight, interactive tool designed to bring mathematics to life through animations. Whether it's algebra, geometry, or calculus, Animath helps visualize complex concepts in a dynamic and intuitive way</p>
+        <p><strong>Tech:</strong>Python,flask,google-generative-ai</p>
       </td>
       <td>
-        <h3>Project Name 2</h3>
-        <p>Another amazing project description.</p>
-        <p><strong>Tech:</strong> Python, Django, PostgreSQL</p>
+        <h3☀️ Floating Solar Panels – Sustainable Energy on Water</h3>
+        <p>Floating Solar Panels is an innovative clean energy project aimed at utilizing underused water surfaces, such as reservoirs and firm-owned ponds, to generate solar power. By deploying photovoltaic panels on floating structures, this system reduces land usage while improving energy efficiency.</p>
       </td>
     </tr>
   </table>
