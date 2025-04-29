@@ -35,10 +35,10 @@
 
 ```javascript
 const spideyProfile = {
-  location: "New York City", // Replace with your location
-  focus: ["Web Development", "Mobile Apps", "Data Science"], // Replace with your focus areas
-  currentlyLearning: "Advanced React Patterns", // Replace with what you're learning
-  funFact: "I can code upside down!" // Replace with your fun fact
+  location: "India",  
+  focus: ["Web Development","Data Science","Python","C","HTML","Shell scripting"],  
+  currentlyLearning: "Game development on Unity", 
+  funFact: “Saving the city by day, fixing semicolons by night.”
 };
 ```
 
@@ -75,8 +75,9 @@ const spideyProfile = {
 <div align="center">
   <h3>Connect With Me</h3>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adharsh-k-716a99327/)
-  [![Email](https://img.shields.io/badge/email-100000?style=for-the-badge&logo=github&logoColor=white)](https://gmail.com/24b206@nssce.ac.in)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adharshkandath@gmail.com)
   
   <p>"With great power comes great responsibility."</p>
 </div>
